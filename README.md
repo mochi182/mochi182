@@ -1,4 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mochi182&count_private=true&show_icons=true)](https://github.com/mochi182/github-readme-stats)
+![Stats](https://mochi182.github.io/assets/stats.png)
+
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mochi182&count_private=true&show_icons=true)](https://github.com/mochi182/github-readme-stats) -->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochi182&layout=compact&hide=CSS,HTML)](https://github.com/mochi182/github-readme-stats)
